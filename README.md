@@ -7,7 +7,7 @@ In this project, a real product interface was cloned using Bootstrap 5, and a la
 
 This project was created to practice Bootstrap and improve responsive landing page development skills.
 
---
+
 
  ## Project Purpose
 
@@ -19,7 +19,7 @@ This project was created to practice Bootstrap and improve responsive landing pa
 
 - Creating a realistic example for a frontend portfolio
 
---
+
 
  ## Technologies Used
 
@@ -31,7 +31,7 @@ This project was created to practice Bootstrap and improve responsive landing pa
 
 - Google Fonts (Inter)
 
---
+
 
  ## Page Structure
 
@@ -59,7 +59,7 @@ This project was created to practice Bootstrap and improve responsive landing pa
 
 - Social links and language selection
 
---
+
 
  ## Future Improvements
 
@@ -71,7 +71,7 @@ This project was created to practice Bootstrap and improve responsive landing pa
 
 - Integration of a real SaaS dashboard
 
---
+
 
  ## What I Learned in This Project
 
@@ -82,5 +82,5 @@ This project was created to practice Bootstrap and improve responsive landing pa
 - Landing page hierarchy
 
 - Writing clean and readable HTML structure
---
+
 
