@@ -1,45 +1,86 @@
-# Crest – Landing Page
-Crest, **modern, sade ve responsive** bir landing page projesidir.  
 
-Bu proje ile **Bootstrap 5** kullanarak gerçek bir ürün arayüzü klonlanmış ve landing page mimarisi uygulanmıştır.
+ ##  Crest – Landing Page
 
-Bu proje, Bootstrap pratiği yapmak ve responsive landing page geliştirme becerilerini artırmak amacıyla oluşturulmuştur.
+Crest is a modern, clean, and responsive landing page project.
 
-##  Projenin Amacı
-- **SaaS** landing page yapısını öğrenmek
-- Bootstrap kullanımını pekiştirmek
-- Responsive tasarım prensiplerini uygulamak
-- Frontend portföyü için gerçekçi bir örnek oluşturmak
+In this project, a real product interface was cloned using Bootstrap 5, and a landing page architecture was implemented.
 
-##  Kullanılan Teknolojiler
+This project was created to practice Bootstrap and improve responsive landing page development skills.
 
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5.3**
-- **Google Fonts (Inter)**
-##  Sayfa Yapısı
+--
 
-- **Navbar**
-  - Fixed-top ve responsive yapı
-- **Hero Section**
-  - Başlık, açıklama ve e-posta giriş alanı
-- **Dashboard Preview**
-  - Tam genişlik ürün görseli
-- **Trusted By**
-  - Referans/logo alanı
-- **Features**
-  - Kart yapısı ile ürün özellikleri
-- **Footer**
-  - Sosyal bağlantılar ve dil seçimi
-##  Gelecek Geliştirmeler
-- Mobil için ek UI iyileştirmeleri
-- Dark mode desteği
-- JavaScript ile etkileşimli bileşenler
-- Gerçek bir SaaS dashboard entegrasyonu
- ##  Bu Projede Öğrendiklerim
-- Bootstrap 5 ile responsive layout oluşturma
-- Grid ve Flexbox yapılarının birlikte kullanımı
-- Landing page hiyerarşisi
-- Temiz ve okunabilir HTML yapısı
+ ## Project Purpose
 
+- Learning the structure of a SaaS landing page
+
+- Strengthening Bootstrap usage
+
+- Applying responsive design principles
+
+- Creating a realistic example for a frontend portfolio
+
+--
+
+ ## Technologies Used
+
+- HTML5
+
+- CSS3
+
+- Bootstrap 5.3
+
+- Google Fonts (Inter)
+
+--
+
+ ## Page Structure
+
+- Navbar
+
+- Fixed-top and responsive structure
+
+- Hero Section
+
+- Heading, description, and email input field
+
+- Dashboard Preview
+
+- Full-width product image
+
+- Trusted By
+
+- Reference/logo section
+
+- Features
+
+- Product features displayed with card components
+
+- Footer
+
+- Social links and language selection
+
+--
+
+ ## Future Improvements
+
+- Additional UI improvements for mobile
+
+- Dark mode support
+
+- Interactive components with JavaScript
+
+- Integration of a real SaaS dashboard
+
+--
+
+ ## What I Learned in This Project
+
+- Creating responsive layouts with Bootstrap 5
+
+- Using Grid and Flexbox structures together
+
+- Landing page hierarchy
+
+- Writing clean and readable HTML structure
+--
 
